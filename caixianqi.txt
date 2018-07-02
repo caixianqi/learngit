@@ -1,4 +1,5 @@
 weolcome jianxun
 ok it is ok
 no
-bye 
+bye
+git has a mutable index called stage
